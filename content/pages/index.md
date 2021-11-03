@@ -4,9 +4,12 @@ sections:
   - type: hero_section
     title: Lleva tu negocio al siguiente nivel
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Crea el mejor contenido, 
+
+      planea mejores estrategias,
+
+      genera más clientes y ventas
     actions:
       - label: Try Free
         url: /pricing
