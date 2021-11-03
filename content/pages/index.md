@@ -5,7 +5,7 @@ sections:
     title: Lleva tu negocio al siguiente nivel
     subtitle: Optional hero section subtitle
     content: |
-      Crea el mejor contenido, 
+      # **Crea el mejor contenido**,
 
       planea mejores estrategias,
 
